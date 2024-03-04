@@ -8,9 +8,6 @@ ToDo is an open-sourse project that showcases potent synergy achieved by integra
   <img src="src/Images/Screenshot (172).png" width="400">
   <img src="src/Images/Screenshot (173).png" width="400">
   <img src="src/Images/Screenshot (171).png" width="400">
-
-  https://github.com/Minty-cyber/React-Django-CRUD-Frontend/blob/66b3425f326d89f7a03df9872a651cd6b986daaf/src/Images/Screenshot%20(171).png
-  src/Images/Screenshot (171).png
 </p>
 
 # API View:
