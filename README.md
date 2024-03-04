@@ -15,7 +15,7 @@ ToDo is an open-sourse project that showcases potent synergy achieved by integra
 
 # API View:
 <p align="center">
-  <img src="https://github.com/Minty-cyber/React-Django-CRUD-Frontend-/blob/6287a7151c1389b4cbdb0d57f67cd72043ad6635/src/Images/Screenshot%20(175).png" width="600">
+  <img src="src/Images/Screenshot (175).png" width="600">
 </p>
 
 # Django Backend Admin Panel:
@@ -23,7 +23,7 @@ ToDo is an open-sourse project that showcases potent synergy achieved by integra
 ## By running python manage.py runserver and navigating to /admin
 
 <p align="center">
-  <img src="https://github.com/Minty-cyber/React-Django-CRUD-Frontend-/blob/6287a7151c1389b4cbdb0d57f67cd72043ad6635/src/Images/Screenshot%20(174).png" width="600">
+  <img src="src/Images/Screenshot (174).png" width="600">
 </p>
 
 # Features :dart:
