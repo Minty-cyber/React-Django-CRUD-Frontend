@@ -40,7 +40,7 @@ ToDo is an open-sourse project that showcases potent synergy achieved by integra
 
 1. **Clone the Repository**
    ```sh
-   https://github.com/Minty-cyber/React-Django-CRUD-Frontend-.git
+   https://github.com/Minty-cyber/React-Django-CRUD-Frontend.git
    ```
 
 2. **Server Set Up:**
